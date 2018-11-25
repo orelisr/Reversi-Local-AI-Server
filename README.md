@@ -9,6 +9,9 @@ The game supports 3 different types of gaming experiences:<br/>
 <br/>
 Screenshots:<br/>
 <br/><br/>
-![Screenshot1](screenshots/1.PNG)<br/><br/>
-![Screenshot2](screenshots/2.PNG)<br/><br/>
-![Screenshot3](screenshots/3.PNG)<br/><br/>
+![Screenshot1](screenshots/1.PNG)
+<br/><br/>
+![Screenshot2](screenshots/2.PNG)
+<br/><br/>
+![Screenshot3](screenshots/3.PNG)
+<br/><br/>
